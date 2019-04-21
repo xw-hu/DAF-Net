@@ -20,10 +20,10 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 
 1. Please download and compile our [CF-Caffe](https://github.com/xw-hu/CF-Caffe).
 
-2. link the CF-Caffe to `DAF/caffe`.
+2. link the CF-Caffe to `DAF-Net/caffe`.
 
     ```shell
-    ln -s '/path/to/CF-Caffe' '/path/to/DAF/caffe'
+    ln -s '/path/to/CF-Caffe' '/path/to/DAF-Net/caffe'
     ```
   
 ## Train
@@ -31,7 +31,7 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 Download the pre-trained VGG16 model at [http://www.robots.ox.ac.uk/~vgg/research/very_deep/](http://www.robots.ox.ac.uk/~vgg/research/very_deep/).   
    Put this model in `CF-Caffe/models/`
 
-1. Enter the `examples/DAF-Net/`   
+1. Enter the `DAF-Net/examples/DAF-Net/`   
    Modify the image path in `train_val.prototxt`.
 
 2. Run   
@@ -42,11 +42,11 @@ Download the pre-trained VGG16 model at [http://www.robots.ox.ac.uk/~vgg/researc
 
 ## Test   
 
-Enter the `examples/` and run `test_raincityscapes.m` in Matlab. 
+Enter the `DAF-Net/examples/` and run `test_raincityscapes.m` in Matlab. 
 
 
 
 ## Evaluation
  
-Enter the `examples/` and run `evaluate_raincityscapes.m` in Matlab. 
+Enter the `DAF-Net/examples/` and run `evaluate_raincityscapes.m` in Matlab. 
 
