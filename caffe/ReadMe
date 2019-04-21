@@ -1,0 +1,27 @@
+Please download and compile the CF-Caffe:
+
+https://github.com/xw-hu/CF-Caffe
+
+
+
+@InProceedings{Hu_2018_CVPR,
+     author = {Hu, Xiaowei and Zhu, Lei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},
+     title = {Direction-Aware Spatial Context Features for Shadow Detection},
+     booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+     pages={7454--7462},
+     year = {2018}
+}
+
+@article{hu2018direction,
+     author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Qin, Jing and Heng, Pheng-Ann},
+     title = {Direction-aware Spatial Context Features for Shadow Detection and Removal},
+     journal={arXiv preprint arXiv:1805.04635},
+     year = {2018}
+}
+
+@article{jia2014caffe,
+     author = {Jia, Yangqing and Shelhamer, Evan and Donahue, Jeff and Karayev, Sergey and Long, Jonathan and Girshick, Ross and Guadarrama, Sergio and Darrell, Trevor},
+     title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
+     journal = {arXiv preprint arXiv:1408.5093},
+     year = {2014}
+}
