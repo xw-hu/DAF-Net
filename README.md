@@ -10,11 +10,11 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 
 @InProceedings{Hu_2019_CVPR,      
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Heng, Pheng-Ann},      
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Depth-attentional Features for Single-image Rain Removal},      
+&nbsp;&nbsp;&nbsp;&nbsp;  title = {Depth-Attentional Features for Single-Image Rain Removal},      
 &nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
+&nbsp;&nbsp;&nbsp;&nbsp;  pages={8022--8031},      
 &nbsp;&nbsp;&nbsp;&nbsp;  year = {2019}      
 }
-
         
 ## Installation
 
