@@ -1,4 +1,4 @@
-# Depth-attentional Features for Single-image Rain Removal
+# Depth-Attentional Features for Single-Image Rain Removal
 
 by Xiaowei Hu, Chi-Wing Fu, Lei Zhu, and Pheng-Ann Heng
 
