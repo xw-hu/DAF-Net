@@ -31,7 +31,7 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 Download the pre-trained VGG16 model at [http://www.robots.ox.ac.uk/~vgg/research/very_deep/](http://www.robots.ox.ac.uk/~vgg/research/very_deep/).   
    Put this model in `CF-Caffe/models/`
 
-1. Enter the `DAF-Net/examples/DAF-Net/`   
+1. Enter the `./examples/DAF-Net/`   
    Modify the image path in `train_val.prototxt`.
 
 2. Run   
@@ -41,8 +41,10 @@ Download the pre-trained VGG16 model at [http://www.robots.ox.ac.uk/~vgg/researc
 
 
 ## Test   
+1. Please download our pretrained model at [Google Drive](https://drive.google.com/open?id=1Tmo2GU6KXwKoGlY_Epy5cae9dApk5AdL).   
+   Put this model in `./examples/DAF-Net/snapshot/`.
 
-Enter the `DAF-Net/examples/` and run `test_raincityscapes.m` in Matlab. 
+2. Enter the `./examples/` and run `test_raincityscapes.m` in Matlab. 
 
 
 
