@@ -6,6 +6,10 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 
 ***
 
+# Dataset
+
+Our RainCityscapes dataset is available for download at the [Cityscapes website](https://www.cityscapes-dataset.com/downloads/).
+
 ## Citation
 
 @InProceedings{Hu_2019_CVPR,      
@@ -15,10 +19,6 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 &nbsp;&nbsp;&nbsp;&nbsp;  pages={8022--8031},      
 &nbsp;&nbsp;&nbsp;&nbsp;  year = {2019}      
 }
-
-## Dataset
-
-Our RainCityscapes dataset is available for download at the [Cityscapes website](https://www.cityscapes-dataset.com/downloads/).
         
 ## Installation
 
