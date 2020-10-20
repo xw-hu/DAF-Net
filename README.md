@@ -6,7 +6,9 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 
 ***
 
-Please find the code of journal version at [https://github.com/xw-hu/DGNL-Net/](https://github.com/xw-hu/DGNL-Net/).
+Please find the code of journal version at [https://github.com/xw-hu/DGNL-Net/](https://github.com/xw-hu/DGNL-Net/).      
+
+***
 
 # RainCityscapes Dataset
 
