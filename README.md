@@ -16,6 +16,15 @@ Our RainCityscapes dataset is available for download at the [Cityscapes website]
 
 ## Citations
 ```
+@InProceedings{Hu_2019_CVPR,      
+  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Heng, Pheng-Ann},      
+  title = {Depth-Attentional Features for Single-Image Rain Removal},      
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
+  pages={8022--8031},      
+  year = {2019}      
+}
+```
+```
 @article{hu2021single,                    
    title={Single-Image Real-Time Rain Removal Based on Depth-Guided Non-Local Features},                
    author={Hu, Xiaowei and Zhu, Lei and Wang, Tianyu and Fu, Chi-Wing and Heng, Pheng-Ann},               
@@ -23,15 +32,6 @@ Our RainCityscapes dataset is available for download at the [Cityscapes website]
    volume={30},                
    pages={1759--1770},            
    year={2021}         
-}
-```
-```
-@InProceedings{Hu_2019_CVPR,      
-  author = {Hu, Xiaowei and Fu, Chi-Wing and Zhu, Lei and Heng, Pheng-Ann},      
-  title = {Depth-Attentional Features for Single-Image Rain Removal},      
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},      
-  pages={8022--8031},      
-  year = {2019}      
 }
 ```
       
